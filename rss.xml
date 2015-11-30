@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ManishPillewar]]></title>
         <description><![CDATA[ManishPillewar]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/manishpillewar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 Nov 2015 16:31:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 30 Nov 2015 16:32:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/manishpillewar/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>OUR</p>]]></description>
+            <link>https://thegrid.ai/manishpillewar/our/index.html</link>
+            <guid isPermaLink="false">9b5bec16-7df4-48f5-8f46-e9cc919ad57c</guid>
+            <pubDate>Mon, 30 Nov 2015 16:31:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>4 Critical factors: Experience Design(XD) for business success</p>]]></description>
-            <link>undefined4-critical-factors-experience-designxd-for-business-succe/index.html</link>
+            <link>https://thegrid.ai/manishpillewar/4-critical-factors-experience-designxd-for-business-succe/index.html</link>
             <guid isPermaLink="false">01d18b1c-460b-4e69-91db-294095f9debe</guid>
             <pubDate>Mon, 30 Nov 2015 16:31:01 GMT</pubDate>
         </item>
